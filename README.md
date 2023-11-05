@@ -29,10 +29,16 @@ This project was made during the Compozent internship in Machine Learning and Ar
 </details>
 
 ## Datasets Used
-This model was built by combining two datasets:
+This model was built by combining these two datasets:
   1. <b>2007 TREC Public Spam Corpus</b> </br>
   Original link: https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo07 </br>
   Preprocessed download link: https://www.kaggle.com/datasets/bayes2003/emails-for-spam-or-ham-classification-trec-2007 </br> </br>
   2. <b>Enron-Spam Dataset</b> </br>
   Original link: https://www2.aueb.gr/users/ion/data/enron-spam/ </br>
   Preprocessed download link: https://github.com/MWiechmann/enron_spam_data/ </br>
+
+## Algorithms Used
+### TF-IDF Vectorizer
+Text Vectorization is the process of converting text into numerical representation. TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. </br>
+In a normal CountVectorizer, we only count the number of times a word appears in the document which results in biasing in favour of most frequent words. This ends up in ignoring rare words which could have helped in processing our data more efficiently. </br>
+A TF-IDF Vectorizer gives more importance to words that are unique and more likely to be indicative of spam or non-spam content.
