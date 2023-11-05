@@ -50,3 +50,6 @@ Therefore, TF-IDF Vectorizer is often preferred for spam email classification du
 ### Support Vector Machine
 Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression. They are known for their ability to learn complex patterns from data and perform well on both linear and non-linear problems. </br>
 SVMs are widely used in spam filtering to distinguish between legitimate emails and spam messages. This is because it generally achieves higher classification accuracy and is robust to noise and outliers in the data.
+
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
