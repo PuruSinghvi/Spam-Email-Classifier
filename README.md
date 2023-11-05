@@ -30,3 +30,9 @@ This project was made during the Compozent internship in Machine Learning and Ar
 
 ## Datasets Used
 This model was built by combining two datasets:
+  1. 2007 TREC Public Spam Corpus
+  Original link: https://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/foo07
+  Preprocessed download link: https://www.kaggle.com/datasets/bayes2003/emails-for-spam-or-ham-classification-trec-2007
+  2. Enron-Spam Dataset
+  Original link: https://www2.aueb.gr/users/ion/data/enron-spam/
+  Preprocessed download link: https://github.com/MWiechmann/enron_spam_data/
