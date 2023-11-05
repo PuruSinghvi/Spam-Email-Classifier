@@ -41,4 +41,5 @@ This model was built by combining these two datasets:
 ### TF-IDF Vectorizer
 Text Vectorization is the process of converting text into numerical representation. TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. </br>
 In a normal CountVectorizer, we only count the number of times a word appears in the document which results in biasing in favour of most frequent words. This ends up in ignoring rare words which could have helped in processing our data more efficiently. </br>
-A TF-IDF Vectorizer gives more importance to words that are unique and more likely to be indicative of spam or non-spam content.
+A TF-IDF Vectorizer gives more importance to words that are unique and more likely to be indicative of spam or non-spam content. </br>
+Therefore, TF-IDF Vectorizer is often preferred for spam email classification due to its ability to capture the relative importance of words and distinguish between spam and non-spam content more effectively.
