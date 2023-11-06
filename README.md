@@ -22,7 +22,7 @@ This project was made during the Compozent internship in Machine Learning and Ar
 
 
 ## Datasets Used
-The combined dataset was built using these two datasets:
+The combined dataset [a relative link](combined_data.csv) was built using these two datasets:
   1. <b>2007 TREC Public Spam Corpus</b> </br>
   File name: email_text.csv </br>
   Original link: https://plg.uwaterloo.ca/~gvcormac/treccorpus07/ </br>
