@@ -7,10 +7,10 @@ This project was made during the Compozent internship in Machine Learning and Ar
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Datasets Used">Datasets Used</a>
+      <a href="#Datasets-Used">Datasets Used</a>
     </li>
     <li>
-      <a href="#Algorithms Used">Algorithms Used</a>
+      <a href="#Algorithms-Used">Algorithms Used</a>
       <ul>
         <li><a href="#TF-IDF Vectorizer">TF-IDF Vectorizer</a></li>
         <li><a href="#Support Vector Machine">Support Vector Machine</a></li>
