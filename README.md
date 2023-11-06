@@ -55,9 +55,9 @@ SVMs are widely used in spam filtering to distinguish between legitimate emails 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
-Puru Singhvi - purusinghvi1234@gmail.com
-LinkedIn: https://www.linkedin.com/in/purusinghvi/
-GitHub: https://github.com/PuruSinghvi
-Discord: purusinghvi
+Puru Singhvi - purusinghvi1234@gmail.com </br>
+LinkedIn: https://www.linkedin.com/in/purusinghvi/ </br>
+GitHub: https://github.com/PuruSinghvi </br>
+Discord: purusinghvi </br>
 
 <p align="right">(<a href="#Spam-Email-Classifier">back to top</a>)</p>
