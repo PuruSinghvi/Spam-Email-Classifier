@@ -26,9 +26,9 @@ This project was made during the Compozent internship in Machine Learning and Ar
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details> </br>
 
-</br>
+
 ## Datasets Used
 The combined dataset was built using these two datasets:
   1. <b>2007 TREC Public Spam Corpus</b> </br>
@@ -38,9 +38,9 @@ The combined dataset was built using these two datasets:
   2. <b>Enron-Spam Dataset</b> </br>
   File name: enron_spam_data.csv </br>
   Original link: https://www2.aueb.gr/users/ion/data/enron-spam/ </br>
-  Preprocessed download link: https://github.com/MWiechmann/enron_spam_data/ </br>
+  Preprocessed download link: https://github.com/MWiechmann/enron_spam_data/ </br> </br>
 
-</br>
+
 ## Algorithms Used
 ### TF-IDF Vectorizer
 TF-IDF is an abbreviation for Term Frequency Inverse Document Frequency. This is a very common algorithm to transform text into a meaningful representation of numbers which is used to fit machine learning algorithms for prediction.  </br>
@@ -50,13 +50,13 @@ Therefore, TF-IDF Vectorizer is often preferred for spam email classification du
 
 ### Support Vector Machine
 Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression. They are known for their ability to learn complex patterns from data and perform well on both linear and non-linear problems. </br>
-SVMs are widely used in spam filtering to distinguish between legitimate emails and spam messages. This is because it generally achieves higher classification accuracy and is robust to noise and outliers in the data.
+SVMs are widely used in spam filtering to distinguish between legitimate emails and spam messages. This is because it generally achieves higher classification accuracy and is robust to noise and outliers in the data. </br> </br>
 
-</br>
+
 ## License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information. </br> </br>
 
-</br>
+
 ## Contact
 Puru Singhvi - purusinghvi1234@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/purusinghvi/ </br>
