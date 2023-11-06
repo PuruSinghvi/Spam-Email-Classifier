@@ -46,6 +46,6 @@ SVMs are widely used in spam filtering to distinguish between legitimate emails 
 
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information. </br> </br>
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information. </br> </br>
 
 <p align="right">(<a href="#Spam-Email-Classifier">back to top</a>)</p>
