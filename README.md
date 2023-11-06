@@ -12,7 +12,7 @@ This project was made during the Compozent internship in Machine Learning and Ar
     <li>
       <a href="#Algorithms-Used">Algorithms Used</a>
       <ul>
-        <li><a href="##TF-IDF-Vectorizer">TF-IDF Vectorizer</a></li>
+        <li><a href="#tf-idf-Vectorizer">TF-IDF Vectorizer</a></li>
         <li><a href="##Support-Vector-Machine">Support Vector Machine</a></li>
       </ul>
     </li>
