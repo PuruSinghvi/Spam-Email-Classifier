@@ -1,4 +1,4 @@
-# Spam-Email-Classifier
+# Spam Email Classifier
 A program that can classify emails as spam or not spam using machine learning algorithms. </br>
 This project was made during the Compozent internship in Machine Learning and Artifical Intelligence.
 
@@ -48,4 +48,4 @@ SVMs are widely used in spam filtering to distinguish between legitimate emails 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information. </br> </br>
 
-<p align="right">(<a href="#Spam-Email-Classifier">back to top</a>)</p>
+<p align="right">(<a href="#Spam Email Classifier">back to top</a>)</p>
